@@ -1,3 +1,13 @@
+📚 Course Information
+Course Title: Object Oriented Programming Lab
+Course Code: CSE 222
+Course Teacher: Nasif Istiak Remon
+Position: Lecturer, Department of CSE
+
+👥 Project Team
+Halima Jahan Chowdhury
+Fatema Jannat Ema
+ 
  🎮 Brick Breaker Game (Java Swing)
 
 A simple Brick Breaker game made using Java and Swing.  
