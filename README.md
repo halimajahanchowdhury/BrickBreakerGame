@@ -1,5 +1,5 @@
 👥 Project Team
-Halima Jahan Chowdhury
+Halima Jahan Chowdhury &
 Fatema Jannat Ema
  
  🎮 Brick Breaker Game (Java Swing)
