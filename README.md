@@ -8,6 +8,7 @@ A simple Brick Breaker game made using Java and Swing.
 You control a paddle to bounce the ball and break all the bricks.  
 
 💡 Why Brick Breaker?
+
 Brick Breaker is a classic arcade game that is simple yet challenging, making it perfect for understanding game mechanics and OOP in practice:
 
 🔹 Programming Value
