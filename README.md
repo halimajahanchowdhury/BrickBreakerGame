@@ -21,8 +21,8 @@ Brick Breaker is a classic arcade game that is simple yet challenging, making it
 - Easy to expand with new levels and features
 
 📺 Demonstration Video
-[Watch the Brick Breaker game in action](https://drive.google.com/file/d/1jsdPvHk46NVRXp6iFbDjoeoywBB4GUxv/view?usp=drive_link
-)
+[Watch the Brick Breaker game in action]
+(https://drive.google.com/file/d/1jsdPvHk46NVRXp6iFbDjoeoywBB4GUxv/view?usp=drive_link)
 
 🏷️ Key Features
 - Gameplay Mechanics 
