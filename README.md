@@ -1,8 +1,4 @@
-👥 Team Members :
-Halima Jahan Chowdhury &
-Fatema Jannat Ema
- 
- 🎮 Brick Breaker Game (Java Swing)
+🎮 Brick Breaker Game (Java Swing)
 
 A simple Brick Breaker game made using Java and Swing.  
 You control a paddle to bounce the ball and break all the bricks.  
